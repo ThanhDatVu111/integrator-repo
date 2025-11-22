@@ -1,1 +1,1 @@
-Base score rules v1 # optional but nice for conflict
+Score rules from Student B version
